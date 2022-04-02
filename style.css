@@ -1,0 +1,16 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+}    
+header{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    font-size: 40px;
+
+}
+#btn{
+    width: 10%;
+    cursor: pointer;
+}
